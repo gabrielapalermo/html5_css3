@@ -1,0 +1,19 @@
+body{
+    margin-left: 35px;
+    margin-right: 200px;
+    background-image:url("C:/Users/paler/Desktop/Coding/html5_css3/img/site.jpg");
+    background-size: cover;
+}
+
+h3,h1,h2,h4,p,header{
+    color: #ffffff;
+}
+
+h3,h1,h2,h4{
+    font-family:sans-serif;
+}
+
+#home{
+    font-size: 30px;
+    align-self: flex-start;
+}
